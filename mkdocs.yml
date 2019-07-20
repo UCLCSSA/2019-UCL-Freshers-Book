@@ -1,0 +1,6 @@
+site_name: UCLCSSA新生手册
+theme:
+  name: 'material'
+  palette:
+    primary: 'red'
+    accent: 'deep orange'
