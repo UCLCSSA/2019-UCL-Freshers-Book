@@ -6,16 +6,12 @@
 
 伦敦大学学院不仅拥有全球领先的医学院、经济学院、建筑学院、工程科学学院，其理论物理与数学、空间科学、统计学、生命科学、计算神经科学、计算机科学、机器学习与人工智能、电子电气工程、化学与化学工程、土木工程、法学、地理学、教育学、社会与人文科学等领域的卓越成就也名扬世界。学院创始之初拥有医学院、数学与物理学院、工程科学学院和社会科学学院，后逐渐扩至11个大学院。
 
-> 校训
->
-> Cuncti adsint meritaeque expectent praemia palmae.
-> (Let all come who by merit deserve the most reward.)
+!!! note "校训"
+    Cuncti adsint meritaeque expectent praemia palmae.
+    (Let all come who by merit deserve the most reward.)
 
-> ——Jeremy Bentham
+     ——Jeremy Bentham
 
-
-
----
 
 
 
@@ -25,9 +21,9 @@
 学联日常活动主要包括学术讲座、就业指导以及文体活动等。除此之外，学联每年8-9月还会代表UCL校方在北京、上海、深圳、成都等地为UCL的新生举办大型的临行准备会。该活动以UCL学联为平台，更加紧密的将学生、学联、学校三方团结起来，互帮互助，增进了解。简单来说：伦大学联就是一个给小伙伴们办活动、送福利、提供信息、交流感情的大家庭！学联下属的不同部门，也会尽全力去满足大家在不同方面的学习、成长和生活需求。
 
 
+!!! info "联系我们"
+    `学联官网`  www.uclucssa.org
 
-> 学联官网：www.uclucssa.org
+    `微博` “伦敦大学学院中国学联” http://www.weibo.com/cssaucl
 
-> 微博：“伦敦大学学院中国学联” http://www.weibo.com/cssaucl
-
-> 微信公众号：UCLUCSSA
+    `微信公众号` UCLUCSSA
