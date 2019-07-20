@@ -11,10 +11,26 @@ theme:
     text: 'Noto Sans SC'
   feature:
     tabs: true
+
+copyright: 'Copyright &copy; 2004 - 2019 UCLCSSA'
+
 markdown_extensions:
-  - admonition
+  - markdown.extensions.admonition
+  - markdown.extensions.def_list
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+
+
 extra:
   social:
+    - type: 'link'
+      link: 'https://www.uclcssa.org/'
     - type: 'facebook'
       link: 'https://www.facebook.com/691076590989125/'
     - type: 'weibo'
