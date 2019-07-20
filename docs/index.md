@@ -1,17 +1,33 @@
-# Welcome to MkDocs
+# 欢迎来到UCL
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+## UCL简介
 
-## Commands
+伦敦大学学院（University College London），简称UCL，建校于1826年，位于英国伦敦，是一所世界著名的顶尖高等学府，为享有顶级学术声誉的综合研究型大学。它是伦敦大学联盟University of London（简称UOL）的创校学院，与剑桥大学、牛津大学、帝国理工大学、伦敦政治经济学院并称“G5超级精英大学“。“G5超级精英大学”代表了英国最顶尖的科研实力、师生质量以及经济实力。 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+伦敦大学学院不仅拥有全球领先的医学院、经济学院、建筑学院、工程科学学院，其理论物理与数学、空间科学、统计学、生命科学、计算神经科学、计算机科学、机器学习与人工智能、电子电气工程、化学与化学工程、土木工程、法学、地理学、教育学、社会与人文科学等领域的卓越成就也名扬世界。学院创始之初拥有医学院、数学与物理学院、工程科学学院和社会科学学院，后逐渐扩至11个大学院。
 
-## Project layout
+> 校训
+>
+> Cuncti adsint meritaeque expectent praemia palmae.
+> (Let all come who by merit deserve the most reward.)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+> ——Jeremy Bentham
+
+
+
+---
+
+
+
+## 伦大学联简介 
+伦敦大学学院中国学生学者联谊会UCLU-CSSA（简称“伦大学联“）是一个在红UCL Union注册并接受中国驻英大使馆指导的非盈利性学生组织。作为UCL最大的华人社团，长期以来伦大学联得到了UCL校方、中国大使馆以及英国各界华人朋友们的广泛支持。成立至今，伦大学联一直本着以服务UCL的华人学生、学者为对象的宗旨，全面致力于中英文化的交流，提高海外华人学生团体的凝聚力。
+
+学联日常活动主要包括学术讲座、就业指导以及文体活动等。除此之外，学联每年8-9月还会代表UCL校方在北京、上海、深圳、成都等地为UCL的新生举办大型的临行准备会。该活动以UCL学联为平台，更加紧密的将学生、学联、学校三方团结起来，互帮互助，增进了解。简单来说：伦大学联就是一个给小伙伴们办活动、送福利、提供信息、交流感情的大家庭！学联下属的不同部门，也会尽全力去满足大家在不同方面的学习、成长和生活需求。
+
+
+
+> 学联官网：www.uclucssa.org
+
+> 微博：“伦敦大学学院中国学联” http://www.weibo.com/cssaucl
+
+> 微信公众号：UCLUCSSA

@@ -1,6 +1,19 @@
 site_name: UCLCSSA新生手册
 theme:
   name: 'material'
+  language: 'zh'
+  logo: 
+    icon: 'account_balance'
   palette:
     primary: 'red'
     accent: 'deep orange'
+  font:
+    text: 'Noto Sans SC'
+extra:
+  social:
+    - type: 'facebook'
+      link: 'https://www.facebook.com/691076590989125/'
+    - type: 'weibo'
+      link: 'https://www.weibo.com/cssaucl/'
+    - type: 'github'
+      link: 'https://github.com/uclcssa'
