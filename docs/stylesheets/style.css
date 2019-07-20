@@ -16,6 +16,10 @@
     margin-top: 2rem;
 }
 
+.md-typeset h1+h2 {
+    margin-top: 2rem;
+}
+
 .md-typeset h3 {
     margin-top: 1.8rem;
     color: #850000;
@@ -35,3 +39,8 @@
     font-size: 24px;
     line-height: 20px;
   } */
+
+
+  .md-content__inner {
+      margin-bottom: 6em;
+  }
