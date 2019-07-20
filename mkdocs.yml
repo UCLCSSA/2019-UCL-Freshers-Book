@@ -6,9 +6,7 @@ theme:
     icon: 'account_balance'
   palette:
     primary: 'red'
-    accent: 'deep orange'
-  font:
-    text: 'Noto Sans SC'
+    accent: 'pink'
   feature:
     tabs: true
 
