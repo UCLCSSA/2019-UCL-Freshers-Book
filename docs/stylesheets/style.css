@@ -1,0 +1,37 @@
+.md-typeset h2 {
+    font-weight: 400;
+    color: #ef5350;
+    margin-top: 5rem;
+}
+
+.md-typeset h1{
+    font-weight: 400;
+}
+
+.md-typeset a {
+    color: #29a5df !important;
+}
+
+.md-typeset h2+h3 {
+    margin-top: 2rem;
+}
+
+.md-typeset h3 {
+    margin-top: 1.8rem;
+    color: #850000;
+}
+
+/* .md-typeset ul {
+    list-style-type: none;
+}
+
+.md-typeset ul li::before {
+    content: "\2022";
+    color: red;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+    font-size: 24px;
+    line-height: 20px;
+  } */

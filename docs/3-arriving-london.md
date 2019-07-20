@@ -39,9 +39,7 @@ https://www.foxtons.co.uk/ Foxtons为英国大型房屋租赁公司，价格较�
 ### 酒店预订
 
  - https://www.lastminute.com/
-
  - https://www.booking.com/
-
  - https://www.hotel.com/
 
 ### Unite 学生公寓
@@ -103,11 +101,8 @@ IQ Bloomsburry是坐落在UCL 附近的移动学生公寓。步行到UCL main ca
 ## 通信
 
 - 电话运营商: 02, Labara, Vodafone, 3，Giffgaff, Orange, T-Mobile, Virgin Media...
-
 - 签约需要英国的银行卡。在英国办理银行卡之前，可以买pay as you go电话卡(淘宝网有售)
-
 - 建议:现在国内开通国际长途业务(一个月)
-
 - 网络电话:QQWechat, Skype, Talkbox, Whatsapp, Email
 
 
@@ -115,13 +110,9 @@ IQ Bloomsburry是坐落在UCL 附近的移动学生公寓。步行到UCL main ca
 
 
 - 整体形势:汇率在降，物价在涨
-
 - 奢侈品便宜，曰常生活费用品费用较高
-
 - 注意网络安全，经常检查Online Bank Statement避免诈骗
-
 - 一个月生活费:£500-800 (不含住宿费)
-
 - 建议准备好前2个月的生活费(现金/支票)
 
 

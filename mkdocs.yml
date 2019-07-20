@@ -26,6 +26,8 @@ markdown_extensions:
       user: squidfunk
       repo: mkdocs-material
 
+extra_css:
+  - 'stylesheets/style.css'
 
 extra:
   social:
