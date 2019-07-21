@@ -59,7 +59,7 @@ Unite集团是英国历史最悠久的学生公寓管理公司，在全英国有
 
 ### Nido学生公寓
 
-Nido设计巧妙。提供时尚、现代的膳宿。公寓楼分别坐落于King&#39; s Cross,Spitalfield 和Notting Hill,均位于伦敦市区的中心地段。学生能方便快捷地到达每个大学和伦敦各处。Nido服务齐全，包括超快速有线(光纤)和无线网络宽带、24/7全天候安全保障、室内维修团队、健身房、洗衣服务、公寓打扫。
+Nido设计巧妙。提供时尚、现代的膳宿。公寓楼分别坐落于King's Cross, Spitalfield 和 Notting Hill, 均位于伦敦市区的中心地段。学生能方便快捷地到达每个大学和伦敦各处。Nido服务齐全，包括超快速有线(光纤)和无线网络宽带、24/7全天候安全保障、室内维修团队、健身房、洗衣服务、公寓打扫。
 
 !!! info
     `价格` 199-400/周价格不等
@@ -86,26 +86,27 @@ IQ Bloomsburry是坐落在UCL 附近的移动学生公寓。步行到UCL main ca
 ## 饮食
 
 - 超市(价格从高到低〉: M&amp;S,Waitrose,Sainsbury,Tesco
-- UCL 餐厅:一个学生餐厅(refectory) , 4个cafe (Print Room Cafe,UCLU Cafe,Bloomsbury Cafe, Roberys Building Costs) , 2个UCL Shop
+- UCL 餐厅:一个学生餐厅 (Refectory) , 4个cafe (Print Room Cafe, UCLU Cafe, Bloomsbury Cafe, Roberys Building Costs) , 2个 UCL Shop
 - 中国城(China Town) 大小商铺错落有致，物品种类齐全，应有尽有。地铁Leicester Square Station. 公交Cambridge Circus (24,29 路等)                                 
 
 部分UCLCSSA合作餐厅：
 
-- 锦里20%OFF(Cash) 10%OFF(Card)；
-- 小笼皇20%OFF(Cash)
-- 花村10%〇FF(Cash) 
-- 峨眉一派12%0FF(Cash)；送甜品 
-- 老成都15%OFF(Cash) 
-- 食家庄12%0FF(Cash) 
-- 巴蜀餐厅15%0FF(Cash)，送小菜
-- Pizza Toscana 15%OFF
+- 锦里20% OFF(Cash) 10% OFF(Card)；
+- 小笼皇20% OFF(Cash)
+- 花村10% OFF(Cash) 
+- 峨眉一派12% OFF(Cash)，送甜品 
+- 老成都15% OFF(Cash) 
+- 食家庄12% OFF(Cash) 
+- 巴蜀餐厅15% OFF(Cash)，送小菜
+- Pizza Toscana 15% OFF
 
 ## 通信
 
-- 电话运营商: 02, Labara, Vodafone, 3，Giffgaff, Orange, T-Mobile, Virgin Media...
+- 电话运营商: 02, Labara, Vodafone, 3，Giffgaff, Orange, T-Mobile, Virgin Media, EE...
+- 中国电话运营商（更优惠好用）：CMLink (中国移动，使用EE网络)
 - 签约需要英国的银行卡。在英国办理银行卡之前，可以买pay as you go电话卡(淘宝网有售)
 - 建议:现在国内开通国际长途业务(一个月)
-- 网络电话:QQWechat, Skype, Talkbox, Whatsapp, Email
+- 网络电话:QQ，Wechat, Skype, Talkbox, Whatsapp, Email
 
 
 ## 支出
@@ -121,11 +122,11 @@ IQ Bloomsburry是坐落在UCL 附近的移动学生公寓。步行到UCL main ca
 ## 交通
 
 ### Oyster Card 牡蛎卡
-- oyster card分为单程票，日票，周票，月票，年票
-- 适用范围:地铁，公交
+- Oyster Card分为单程票，日票，周票，月票，年票
+- 适用范围: 地铁，公交
 - 伦敦地铁历史悠久，线路发达，是城内交通的主力军
 - UCL 附近常用的地铁站:Russell square Station, Goodge Street Station, Warren Street Station, Euston Square Station, Euston Station。
-- 伦敦巴士，经济优惠，途径UCL线路;10,14,24,29,134
+- 伦敦巴士，经济优惠，途径UCL线路: 10,14,24,29,134
 
 ### Young person card (强烈建议申请)
 - 学生折扣(18 + student): 入学注册后可申请Student Oyster Card，买月票和年票有折扣
@@ -138,7 +139,8 @@ IQ Bloomsburry是坐落在UCL 附近的移动学生公寓。步行到UCL main ca
 - Addison Lee, 提前预定:www.addisonlee.com 或下载Addison Lee app
   
 ### 伦敦自行车
-- 自行车并不普及，道路窄，单车道少，价格昂贵
+- 自行车并不普及，危险，道路窄，单车道少，价格昂贵
+- UCL附近共享单车比较普及，摩拜小黄车1镑20分钟，也有伦敦TfL Docked单车租借。
 - 注意购买安全帽等用具
 - 学校附近偷车贼较多
 
@@ -146,23 +148,28 @@ IQ Bloomsburry是坐落在UCL 附近的移动学生公寓。步行到UCL main ca
 
 
 ### UCL学习生活 
-- Moodle: moodle.ucl.ac.uk
-- ISD: www.ucl.ac.uk/isd/
+- Moodle: https://moodle.ucl.ac.uk
+- ISD: https://www.ucl.ac.uk/isd/
 - Timetable: https://timetable.ucl.ac.uk/tt/homePage.do 
-- UCL Accommodation: www.ucl.ac.uk/prospective-students/ accommodation 
-- UCL Career Service: www/ucl.ac.uk/careers
-- UCL library:www.ucl.ac.uk/library/ -UCL Union: http://uclu.org/shop 
-- 使馆注册:srs.more.edu.cn 
-- TFL: www.tfl.gov.uk
-- National Railway: www.nationalrail.co.uk -Addison Lee:www.addisonlee.com -http://www. 16-25railcard.co.uk/ 
+- UCL Accommodation: https://www.ucl.ac.uk/prospective-students/accommodation 
+- UCL Career Service: https://www/ucl.ac.uk/careers
+- UCL library: https://www.ucl.ac.uk/library/ 
+- UCL Union: http://uclu.org/shop 
+- 使馆注册: https://srs.more.edu.cn 
+- TFL: https://www.tfl.gov.uk
+- National Railway: https://www.nationalrail.co.uk 
+- Addison Lee: https://www.addisonlee.com 
+- Young person card: http://www.16-25railcard.co.uk/ 
 
 ### 网购
 
-- ASOS: www.asos.com/women/ 
-- Amazon:www.amazon.co.uk 安全 
+- ASOS: https://www.asos.com/women/ 
+- Amazon: https://www.amazon.co.uk
+- Ebay: https://ebay.co.uk
+- Gumtree: https://gumtree.co.uk 
 
 ### 其他
 
 - 急救电话:999 (报案，火灾，急救) 
 - 中国驻英使馆领事部联系方式:Consular Section,电话:(44) 020-76311430 
-- 网立占:www.Chineseembassy.org.uk 
+- 网站: https://www.chineseembassy.org.uk 

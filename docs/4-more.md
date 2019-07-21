@@ -45,10 +45,10 @@ Spring Week—般为期两周，在复活节期间，每年十月中旬开放给
 
 ## Facilities in UCL
 
-可登陆http://www.ud.ac.uk/maps查询图书馆、教室、 学生宿舍以及服务设施的地点。
+可登陆 http://www.ud.ac.uk/maps 查询图书馆、教室、 学生宿舍以及服务设施的地点。
 
 !!! info
-    UCL Online Library Services (网络图书馆) www.ucl.ac.uk/library/eresources.shtml
+    UCL Online Library Services (网络图书馆) https://www.ucl.ac.uk/library/eresources.shtml
 
 Student centre 是UCL斥巨资建立的一个超豪华图书馆，24h开放，有千余座位，馆内设置了café,学习小组讨论房间，安静自习室，在里面可以讲话的学习室。配备的电脑都是最新的，也可以租借笔记本电脑～底层可以洗澡，café的微波炉可以热饭（精致大学生的福音），楼顶还有超大露台，学习累了可以上去坐坐，吹吹风，俯瞰伦敦景观… 设施非常齐全，非常推荐大家去，不过论文季基本人满为患，需要大家提前去占座～
 
@@ -70,7 +70,7 @@ UCL 一共有18+图书馆，另外一些比较好的图书馆有
 
 ## 关于
 
-University College London
+### University College London
 
 UCL postal address: University College London Gower Street London WC1E6BT UK
 
@@ -84,6 +84,6 @@ Admission Enquiries Postgraduate: mailto:admissions@ucl.ac.uk
 
 Customer Services Centre: mailto:efdservices@ucl.ac.uk
 
-UCL Chinese Students and Scholars Association
+### UCL Chinese Students and Scholars Association
 
 Website: https://www.uclucssa.org
