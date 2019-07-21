@@ -65,6 +65,17 @@
         margin-left: 10%;
     }
 
+    .md-header-nav.md-grid{
+        max-width: 90%;
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+
+    .md-tabs__inner.md-grid{
+        max-width: 90%;
+        margin-right: 5%;
+        margin-left: 5%;
+    }
 
     .md-sidebar{
         padding-top: 3rem;
