@@ -1,4 +1,4 @@
-# CSSA学联简介
+# CSSA学联介绍
 
 ![img](images/header.jpg)
 
