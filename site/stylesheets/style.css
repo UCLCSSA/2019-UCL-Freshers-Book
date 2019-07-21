@@ -58,6 +58,11 @@
     padding-bottom: 20px ;
   }
 
+  .admonition p{
+    padding-bottom: 0;
+  }
+
+
   /* img{
       padding: 20px 0;
   } */
