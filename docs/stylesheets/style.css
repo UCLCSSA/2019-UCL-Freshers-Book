@@ -52,9 +52,27 @@
       padding-top: 0;
   }
 
+  p{
+    font-size: 16px;
+    color:#3b454e;
+  }
+
   @media only screen and (min-width: 1220px) {
+    
+    .md-grid {
+        max-width: 80%;
+        margin-right: 10%;
+        margin-left: 10%;
+    }
+
+
     .md-sidebar{
         padding-top: 3rem;
+        color: #626f7a;
+    }
+
+    .md-nav__link[data-md-state=blur] {
+        color: rgba(0,0,0,.24);
     }
 
 
@@ -82,6 +100,13 @@
     .md-sidebar--primary{
         background-color: #F5F7F9;
         border-right: 1px solid #E6ECF1;
+        margin-left: -15%;
+        width: 26%;
+        padding-left: 10%;
+    }
+
+    .md-sidebar--secondary {
+        margin-left: 85%;
     }
 
     .md-sidebar--primary .md-sidebar__scrollwrap {
@@ -104,11 +129,20 @@
         color: gray;
     }
 
+
+
+
 }
 
+
+/* fix right side bar */
 @media only screen and (min-width: 960px) {
     .md-nav--secondary{
         border-left: 1px solid #E6ECF1;
         padding-left: 20px;
     }
 }
+
+
+
+       
