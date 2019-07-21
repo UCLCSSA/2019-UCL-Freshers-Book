@@ -10,7 +10,7 @@ theme:
   feature:
     tabs: true
 
-copyright: 'Copyright &copy; 2004 - 2019 UCLCSSA'
+copyright: 'Copyright &copy; 2002 - 2019 UCLCSSA'
 
 markdown_extensions:
   - markdown.extensions.admonition
@@ -30,7 +30,7 @@ extra_css:
 extra:
   social:
     - type: 'link'
-      link: 'https://www.uclcssa.org/'
+      link: 'https://www.uclucssa.org/'
     - type: 'facebook'
       link: 'https://www.facebook.com/691076590989125/'
     - type: 'weibo'

@@ -63,7 +63,7 @@
 
 新生手册主要分为四大板块，可以通过左侧或左上角菜单按钮导航主要板块，每页下方也可直接切换上一个或下一个板块。板块目录可在手机版菜单中点击目录按钮或在电脑版右侧目录查看。右上角可搜索任何关键词，跳转到相应位置。
 
-若您发现错误，或有内容想要投稿补充，欢迎email至 info@uclcssa.org 或通过其他方式联系我们。本手册开源并 host 于 github，欢迎直接前往 https://github.com/UCLCSSA/UCL-Freshers-Guide-2019/ 进行编辑，并发送Pull Request。
+若您发现错误，或有内容想要投稿补充，欢迎email至 info@uclcssa.org 或通过其他方式联系我们。本手册开源并 host 于 github，欢迎直接前往 https://github.com/UCLCSSA/UCL-Freshers-Guide-2019/ 进行编辑，并发送Pull Request，你的贡献将以最快的方式发布。
 
 
 
