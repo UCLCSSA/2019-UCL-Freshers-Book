@@ -4,6 +4,8 @@
 
 ## 租房与住房
 
+![img](images/ucl5.jpg)
+
 http://www.rightmove.co.uk/ 用于在网上寻找室友合租，需自行联络中介或房东。
 
 https://uk.easyroommate.com/ 用于在网上寻找室友合租，需自行联络中介或房东。 
