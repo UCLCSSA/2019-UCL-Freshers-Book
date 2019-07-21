@@ -55,7 +55,12 @@
   p{
     font-size: 16px;
     color:#3b454e;
+    padding-bottom: 20px ;
   }
+
+  /* img{
+      padding: 20px 0;
+  } */
 
   @media only screen and (min-width: 1220px) {
     
@@ -65,6 +70,17 @@
         margin-left: 10%;
     }
 
+    .md-header-nav.md-grid{
+        max-width: 90%;
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+
+    .md-tabs__inner.md-grid{
+        max-width: 90%;
+        margin-right: 5%;
+        margin-left: 5%;
+    }
 
     .md-sidebar{
         padding-top: 3rem;
