@@ -37,3 +37,7 @@ extra:
       link: 'https://www.weibo.com/cssaucl/'
     - type: 'github'
       link: 'https://github.com/uclcssa'
+
+google_analytics:
+  - 'UA-128171628-5'
+  - 'auto'
