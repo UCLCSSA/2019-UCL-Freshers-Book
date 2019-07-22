@@ -1,3 +1,9 @@
+/*  
+ *  Gitbook like custom css for material mkdocs 
+ *  Author: Henry Zhang (henryz.cc)
+ */
+
+
 .md-typeset h2 {
     font-weight: 400;
     color: #ef5350;
@@ -9,9 +15,6 @@
     margin-top: 1.5rem;
 }
 
-/* .md-typeset a {
-    color: #29a5df !important;
-} */
 
 .md-typeset h2+h3 {
     margin-top: 2rem;
@@ -62,10 +65,6 @@
     padding-bottom: 0;
   }
 
-
-  /* img{
-      padding: 20px 0;
-  } */
 
   @media only screen and (min-width: 1220px) {
     
@@ -149,8 +148,6 @@
         font-size: 18px;
         color: gray;
     }
-
-
 
 
 }
