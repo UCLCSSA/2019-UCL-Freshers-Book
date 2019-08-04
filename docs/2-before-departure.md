@@ -158,3 +158,21 @@ http://www.gowerplacepractice.nhs.uk
 英国主要银行有HSBC, Natwest, Barclays, Lloyds等，它们都有学生账户。有的银行如Bank of Scotland, Royal Bank of Scotland为吸引学生，特别提供优惠利率，可考虑利用。
 
 建议大家综合衡量之后选择最方便、最适合自己的银行开户。
+
+
+## UCL 官方新生 Checklist 及 App
+
+UCL官方为新生准备了一份来英之前的Checklist，以及每周更新一次的 Countdown to UCL 博客，主要内容以学习和生活方面的准备为主。你可以进入下面的链接订阅每周博文，以及为新生周，enrolment等做准备。
+
+> UCL新生官网 https://www.ucl.ac.uk/students/new-students
+
+
+与此同时UCL还提供了Guidebook App，内容类似于上方网站，但更易于阅读。
+
+![img](images/welcometoucl.png)
+
+可直接进入 https://guidebook.com/g/ucl-welcome-september-2019/ 选择苹果或安卓下载。
+
+若在国内安卓用户无法下载，不用担心，学联也已早早为你考虑，你可以直接进入 https://uclcssa.cn/public/apk_download/ 直接下载apk安装~ （小程序内打开请复制下方链接）
+
+    https://uclcssa.cn/public/apk_download/

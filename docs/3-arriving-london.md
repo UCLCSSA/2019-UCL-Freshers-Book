@@ -122,11 +122,12 @@ IQ Bloomsburry是坐落在UCL 附近的移动学生公寓。步行到UCL main ca
 ## 交通
 
 ### Oyster Card 牡蛎卡
-- Oyster Card分为单程票，日票，周票，月票，年票
-- 适用范围: 地铁，公交
+- 伦敦公交地铁不接受现金，仅支持 Oyster 卡或 Contactless (包括 Apple Pay & Google Pay)
+- Oyster Card 可在任意地铁站机器办理，直接使用现金或银行卡充值。
+- Oyster 适用于公交，地铁，轻轨等。也支持办理日票，周票，月票，年票。
 - 伦敦地铁历史悠久，线路发达，是城内交通的主力军
 - UCL 附近常用的地铁站:Russell square Station, Goodge Street Station, Warren Street Station, Euston Square Station, Euston Station。
-- 伦敦巴士，经济优惠，途径UCL线路: 10,14,24,29,134
+- 伦敦巴士，£1.50可在一小时内无限换乘，途径UCL线路: 10,14,24,29,134
 
 ### Young person card (强烈建议申请)
 - 学生折扣(18 + student): 入学注册后可申请Student Oyster Card，买月票和年票有折扣
@@ -152,7 +153,7 @@ IQ Bloomsburry是坐落在UCL 附近的移动学生公寓。步行到UCL main ca
 - ISD: https://www.ucl.ac.uk/isd/
 - Timetable: https://timetable.ucl.ac.uk/tt/homePage.do 
 - UCL Accommodation: https://www.ucl.ac.uk/prospective-students/accommodation 
-- UCL Career Service: https://www/ucl.ac.uk/careers
+- UCL Career Service: https://www.ucl.ac.uk/careers
 - UCL library: https://www.ucl.ac.uk/library/ 
 - UCL Union: http://uclu.org/shop 
 - 使馆注册: https://srs.more.edu.cn 
@@ -170,6 +171,6 @@ IQ Bloomsburry是坐落在UCL 附近的移动学生公寓。步行到UCL main ca
 
 ### 其他
 
-- 急救电话:999 (报案，火灾，急救) 
+- 急救电话: 999 (报案，火灾，急救) 
 - 中国驻英使馆领事部联系方式:Consular Section,电话:(44) 020-76311430 
 - 网站: https://www.chineseembassy.org.uk 
