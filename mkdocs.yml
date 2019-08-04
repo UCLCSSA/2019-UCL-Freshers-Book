@@ -27,6 +27,9 @@ markdown_extensions:
 extra_css:
   - 'stylesheets/style.css'
 
+extra_javascript:
+    - 'js/baidu.js'
+
 extra:
   social:
     - type: 'link'
