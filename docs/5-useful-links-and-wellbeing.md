@@ -32,38 +32,38 @@
 
 ## UCL链接直达
 
-### UCL New Students home page: pre-enrolment, enrolment, Welcome to UCL app: 
+### UCL 新生主页: pre-enrolment, enrolment, Welcome to UCL app: 
 
 https://www.ucl.ac.uk/students/new-students
 
 
-### ID cards, enrolment, student status letter
+### ID 卡, enrolment, student status letter
 
 https://www.ucl.ac.uk/students/status
 
 
-### International students’ issues
+### 常见国际学生问题
 
 https://www.ucl.ac.uk/students/international-students
 https://www.ucl.ac.uk/students/immigration-and-visas
 
 
-### UCL financial support services, sources of funding and money management
+### UCL 学费帮助服务, 财务管理以及寻求 funding
 
 https://www.ucl.ac.uk/students/fees-and-funding
 
 
-### Practical information: term dates, Student Centre and Enquiries, accommodation and more
+### 实用信息: 学期日期时间, Student Centre 和信息咨询, 住宿以及更多
 
 https://www.ucl.ac.uk/students/life
 
 
-### Student support and wellbeing: mental health, disability, suicide awareness training, counselling, doctors and health
+### 学生支持：心理健康，残疾，自杀防范，咨询，医生和健康
 
 https://www.ucl.ac.uk/students/student-support-and-wellbeing
 
 
-### Academic support resources
+### 学术帮助资源
 
 https://www.ucl.ac.uk/students/academic-support
 https://www.ucl.ac.uk/students/academic-support/personal-tutors
@@ -71,12 +71,12 @@ https://www.ucl.ac.uk/students/exams-and-assessments/student-guide-assessment-an
 https://www.ucl.ac.uk/students/library-and-it
 
 
-### Students Union UCL: student union representatives, sports, the volunteering service, student clubs and societies, JobShop listings page
+### Student Union UCL：Union 代表，体育，志愿服务，学生俱乐部和社团，JobShop列表页面
 
 http://studentsunionucl.org/
 
 
-### UCL Careers service, personal development
+### UCL 求职服务
 
 https://www.ucl.ac.uk/students/careers-and-work-experience
 https://www.ucl.ac.uk/you-shape-ucl/sites/you-shape-ucl/files/ucl-student-opportunities-guide.pdf
