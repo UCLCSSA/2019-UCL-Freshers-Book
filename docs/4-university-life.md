@@ -67,23 +67,3 @@ UCL 一共有18+图书馆，另外一些比较好的图书馆有
 !!! tips
     大多数图书馆都有安静学习区和小组讨论区，图书馆开馆时间也不尽相同，大家可以自行上官网浏览。
 
-
-## 关于
-
-### University College London
-
-UCL postal address: University College London Gower Street London WC1E6BT UK
-
-Moodle: https://moodle.ucl.ac.uk/login/
-
-Accommodation: mailto:residences@ucl.ac.uk
-
-Admission Enquiries Undergraduate: mailto:undergraduate-admissions@ucl.ac.uk
-
-Admission Enquiries Postgraduate: mailto:admissions@ucl.ac.uk
-
-Customer Services Centre: mailto:efdservices@ucl.ac.uk
-
-### UCL Chinese Students and Scholars Association
-
-Website: https://www.uclucssa.org

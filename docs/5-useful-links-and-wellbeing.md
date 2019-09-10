@@ -1,0 +1,82 @@
+# 紧急求助及UCL服务
+
+## 心理健康求助
+
+### 学生中最常见的心理健康问题是什么？
+- 抑郁
+- 焦虑
+
+### 心理健康问题有哪些可能的诱因？
+- 孤独感，远离家人，已知的朋友
+- 在学业上取得成功的压力
+- 财务问题，债务，对预算编制和兼职工作的担忧
+- 以前的创伤经历（如性暴力，虐待，欺凌，发生意外，与他们关系密切的人死亡）
+- 调整到新的环境和生活状况，认识新的朋友。
+- 感到压力，过于追求一个向往的美好大学生活
+- 感觉与其他学生不同，人们无法与你产生共同话题
+- 社会耻辱和对精神疾病的误解社交媒体对健康的影响
+- 对未来就业市场的焦虑
+
+### 如果我或者我认识的人有心理健康问题，我该怎么办？
+- 鼓励他们与其他人交谈，约看GP，与家人和朋友聊天
+- 讨论自我保健的重要性：锻炼，吃得好，获得优质睡眠，限制社交媒体的使用，毒品和酒精的影响，平衡学习和努力工作与社交生活和享受，通过聘请顾问解决经济问题。
+- 尝试使用 UCL 或 Headspace 应用程序提供帮助的应用程序，并查看 Student Minds 网站上的资源
+- 不要孤立自己 
+- 尝试不同的活动来认识人
+
+### UCL心理健康服务
+- 访问 https://www.ucl.ac.uk/students/student-support-and-wellbeing 了解更多
+- 在 Student Centre 可为需要的学生提供免费预约和长期预约
+- 学生心理和咨询服务提供CBT，短期咨询，精神支持和小组研讨会为遭受性暴力的学生提供专业支持，来自 Rape Crisis 和Survivors UK, Care First在晚上和周末提供的学生电话帮助热线，所有伦敦大学学院的学生都可以免费使用
+
+
+## UCL链接直达
+
+### UCL New Students home page: pre-enrolment, enrolment, Welcome to UCL app: 
+
+https://www.ucl.ac.uk/students/new-students
+
+
+### ID cards, enrolment, student status letter
+
+https://www.ucl.ac.uk/students/status
+
+
+### International students’ issues
+
+https://www.ucl.ac.uk/students/international-students
+https://www.ucl.ac.uk/students/immigration-and-visas
+
+
+### UCL financial support services, sources of funding and money management
+
+https://www.ucl.ac.uk/students/fees-and-funding
+
+
+### Practical information: term dates, Student Centre and Enquiries, accommodation and more
+
+https://www.ucl.ac.uk/students/life
+
+
+### Student support and wellbeing: mental health, disability, suicide awareness training, counselling, doctors and health
+
+https://www.ucl.ac.uk/students/student-support-and-wellbeing
+
+
+### Academic support resources
+
+https://www.ucl.ac.uk/students/academic-support
+https://www.ucl.ac.uk/students/academic-support/personal-tutors
+https://www.ucl.ac.uk/students/exams-and-assessments/student-guide-assessment-and-feedback
+https://www.ucl.ac.uk/students/library-and-it
+
+
+### Students Union UCL: student union representatives, sports, the volunteering service, student clubs and societies, JobShop listings page
+
+http://studentsunionucl.org/
+
+
+### UCL Careers service, personal development
+
+https://www.ucl.ac.uk/students/careers-and-work-experience
+https://www.ucl.ac.uk/you-shape-ucl/sites/you-shape-ucl/files/ucl-student-opportunities-guide.pdf
