@@ -30,6 +30,27 @@
 - 学生心理和咨询服务提供CBT，短期咨询，精神支持和小组研讨会为遭受性暴力的学生提供专业支持，来自 Rape Crisis 和Survivors UK, Care First在晚上和周末提供的学生电话帮助热线，所有伦敦大学学院的学生都可以免费使用
 
 
+## 财产和人身安全
+
+对于校园内的任何紧急情况，在拨打 `999` (英国紧急报警电话) 之前致电 `020 7679 2222` 或使用 UCL 内部座机电话拨打 `222`，团队就可以快速定位校园内紧急情况的位置。
+
+您可以在线报告非紧急情况的犯罪，或致电 `101`（英国非紧急报警电话）。您也可以访问 Crimestoppers 匿名举报。 如果犯罪正在发生，你应立即拨打 `999`。
+
+了解更多 https://www.ucl.ac.uk/estates/our-services/security-ucl
+
+### 物品遗失被盗
+https://www.ucl.ac.uk/estates/our-services/security-ucl/lost-property
+
+### 学生卡及钥匙遗失
+https://www.ucl.ac.uk/estates/our-services/security-ucl/id-cards-locks-and-keys
+
+### 自行车安全
+https://www.ucl.ac.uk/estates/estates-services/security-ucl/staying-safe-ucl/bike-security
+
+### 意外和紧急情况
+https://www.ucl.ac.uk/estates/safety-ucl/accidents-and-emergencies
+
+
 ## UCL链接直达
 
 ### UCL 新生主页: pre-enrolment, enrolment, Welcome to UCL app: 
